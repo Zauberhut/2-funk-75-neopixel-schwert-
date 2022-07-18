@@ -1,0 +1,30 @@
+{
+    "name": "2 Funk 75 Neopixel Schwert ",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v3.0.66",
+        "tag": "v3.0.66",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/d622661f30f16ffddca48cd2482bb7ed64c70d08",
+        "target": "5.0.12",
+        "pxt": "6.0.38",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
